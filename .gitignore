@@ -1,0 +1,12 @@
+__pycache__
+.vscode
+nohup
+workspace
+result
+temp
+
+shmetis
+hmetis
+
+benchmarks/ispd2005/*
+benchmarks/ChiPBench/*
